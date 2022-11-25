@@ -10,7 +10,8 @@ redirect_from:
 
 I am currently a research scholar at Computer Science Department at IIT-Hyderabad. Prior to joining IIT-Hyderabad, I did my M-Tech from Governement Engineering College Thrissur, Kerala. My research interests are in the are of networking, network security, software defined networks, programmable networks and cloud performance monitoring. 
 
-title: "Publication"
+**Publication**
+
 Ranjitha K, Praveen Tammana, Pravein Govindan Kannan, and Priyanka Naik. "A Case for Cross-Domain Observability to Debug Performance Issues in Microservices." In 2022 IEEE 15th International Conference on Cloud Computing (CLOUD), pp. 244-246. IEEE, 2022  
 
 Ranjitha K, Divya Pathak, Praveen Tammana, Antony Franklin A, Tejasvi Alladi;” Accelerating PUF-based UAV Authentication Protocols Using Programmable Switch”, International Conference on COMmunication Systems & NETworkS(COMSNETS) 2022 
