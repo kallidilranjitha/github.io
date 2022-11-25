@@ -11,49 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science and Engineering, Kannur University, 2005.
+* M.Tech. in Computer Science and Engineering, Calicut University, 2016.
+* Research Scholar at Dept. of CSE, IIT-Hyderabad, January 2021.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Research Fellow, C R Rao Advanced Institute of Mathematics, Statistics and Computer Science, Hyderabad, India from 28/03/2018 to 31/12/2021. 
+* Technology Lead, Infosys, Hyderabad from 18/10/2010 to 12/06/2013. 
+* Senior Software Engineer, Aricent, Chennai from 16/08/2005 to 17/08/2009.
