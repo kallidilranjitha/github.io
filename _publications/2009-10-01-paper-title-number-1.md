@@ -1,6 +1,5 @@
 ---
 title: "A Case for Cross-Domain Observability to Debug Performance Issues in Microservices"
-authors: **Ranjitha K**, Praveen Tammana, Pravein Govindan Kannan, Priyanka Naik
 collection: publications
 permalink: /publication/PerfMon.pdf
 venue: 'IEEE Cloud 2022'
