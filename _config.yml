@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ranjitha"
-  avatar           : "ranjitha.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.png"
+  bio              : "Research Scholar"
+  location         : "IIT Hyderabad"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
