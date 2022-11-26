@@ -18,15 +18,15 @@ I am currently a research scholar at Computer Science Department at IIT-Hyderaba
 
 - Accelerating PUF-based UAV Authentication Protocols Using Programmable Switch\
 **Ranjitha K**, Divya Pathak, Praveen Tammana, Antony Franklin A, Tejasvi Alladi\
-COMSNETS, Bangalore, India, January 2022
+[IEEE/ACM COMSNETS](https://www.comsnets.org/poster_session.html), Bangalore, India, January 2022
 
 - DBVal: Validating P4 Data Plane Runtime Behavior\
 K Shiv Kumar, **Ranjitha K**, P. S. Prashanth, Mina Tahmasbi Arashloo, Venkanna U, and Praveen Tammana\
-ACM SIGCOMM SOSR, September 2021
+[ACM SIGCOMM SOSR](https://conferences.sigcomm.org/sosr/2021/), September 2021
 
 - Flow monitoring scheme for reducing congestion and packet loss in software defined networks\
 C. N. Sminesh, E. Grace Mary Kanaga, **Ranjitha K**\
-IEEE ICACCS, Coimbatore, India, January 2017
+[IEEE ICACCS](https://ieeexplore.ieee.org/xpl/conhome/8010764/proceeding), Coimbatore, India, January 2017
 
 - A Proactive Flow Admission and Re-Routing Scheme for Load Balancing and Mitigation of Congestion Propagation in SDN Data Plane\
 Sminesh C N, Kanaga E Grace Mary, **Ranjitha K**\
