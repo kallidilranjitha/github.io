@@ -3,9 +3,8 @@ title: "A Case For Cross-Domain Observability to Debug Performance Issues in Mic
 collection: publications
 permalink: /publication/PerfMon.pdf
 excerpt: 'Ranjitha K, Praveen Tammana, Pravein Govindan Kannan, Priyanka Naik'
-date: 2015-10-01
 venue: 'IEEE Cloud 2022, Barcelona, Spain, July 2022'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://kallidilranjitha/_publications/PerfMon.pdf'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
