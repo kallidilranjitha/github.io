@@ -12,17 +12,27 @@ I am currently a research scholar at Computer Science Department at IIT-Hyderaba
 
 **Publication**
 
-**Ranjitha K**, Praveen Tammana, Pravein Govindan Kannan, and Priyanka Naik. "A Case for Cross-Domain Observability to Debug Performance Issues in Microservices." In 2022 IEEE 15th International Conference on Cloud Computing (CLOUD), pp. 244-246. IEEE, 2022  
+-A Case for Cross-Domain Observability to Debug Performance Issues in Microservices
+**Ranjitha K**, Praveen Tammana, Pravein Govindan Kannan, and Priyanka Naik
+IEEE Cloud, Barcelona, Spain, July 2022
 
-**Ranjitha K**, Divya Pathak, Praveen Tammana, Antony Franklin A, Tejasvi Alladi;” Accelerating PUF-based UAV Authentication Protocols Using Programmable Switch”, International Conference on COMmunication Systems & NETworkS(COMSNETS) 2022 
+-Accelerating PUF-based UAV Authentication Protocols Using Programmable Switch
+**Ranjitha K**, Divya Pathak, Praveen Tammana, Antony Franklin A, Tejasvi Alladi
+COMSNETS, Bangalore, India, January 2022
 
-K Shiv Kumar, **Ranjitha K**, P. S. Prashanth, Mina Tahmasbi Arashloo, Venkanna U, and Praveen Tammana. "DBVal: Validating P4 Data Plane Runtime Behavior." In Proceedings of the ACM SIGCOMM Symposium on SDN Research (SOSR), pp. 122-134. 2021 
+-DBVal: Validating P4 Data Plane Runtime Behavior
+K Shiv Kumar, **Ranjitha K**, P. S. Prashanth, Mina Tahmasbi Arashloo, Venkanna U, and Praveen Tammana
+ACM SIGCOMM SOSR, September 2021
 
-C. N. Sminesh, E. Grace Mary Kanaga, **K. Ranjitha**; “Flow monitoring scheme for reducing congestion and packet loss in software defined networks”, 4th Int’l. Conf. on Advanced Computing and Communication Systems (ICACCS), 2017 (Published in IEEE Xplore) 
+-Flow monitoring scheme for reducing congestion and packet loss in software defined networks
+C. N. Sminesh, E. Grace Mary Kanaga, **Ranjitha K**
+IEEE ICACCS, Coimbatore, India, January 2017
 
-Sminesh C N, Kanaga E Grace Mary, **K Ranjitha**, “A Proactive Flow Admission and Re-Routing Scheme for Load Balancing and Mitigation of Congestion Propagation in SDN Data Plane”, Int'l Journal of Computer Networks & Communications (IJCNC), Vol. 10, No. 6, Nov 2018. 
+-A Proactive Flow Admission and Re-Routing Scheme for Load Balancing and Mitigation of Congestion Propagation in SDN Data Plane
+Sminesh C N, Kanaga E Grace Mary, **Ranjitha K**
+Int'l Journal of Computer Networks & Communications (IJCNC), Vol. 10, No. 6, Nov 2018. 
 
 **Teaching Work**
-Tutorial on "Introduction to linux commands"
-Tutorial on "Getting started with Docker"
-Teaching assistant for CN-3530 (Computer Networks)
+-Tutorial on "Introduction to linux commands"
+-Tutorial on "Getting started with Docker"
+-Teaching assistant for CN-3530 (Computer Networks)
