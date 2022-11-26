@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a research scholar at Computer Science Department at IIT-Hyderabad. Prior to joining IIT-Hyderabad, I did my M-Tech from Governement Engineering College Thrissur, Kerala. My research interests are in the are of networking, network security, software defined networks, programmable networks and cloud performance monitoring. 
 
-###**Publication**
+**Publication**
 
 * A Case for Cross-Domain Observability to Debug Performance Issues in Microservices\
 **Ranjitha K**, Praveen Tammana, Pravein Govindan Kannan, and Priyanka Naik\
@@ -32,7 +32,7 @@ IEEE ICACCS, Coimbatore, India, January 2017
 Sminesh C N, Kanaga E Grace Mary, **Ranjitha K**\
 Int'l Journal of Computer Networks & Communications (IJCNC), Vol. 10, No. 6, Nov 2018. 
 
-**Teaching Work**\
+**Teaching Work**
 - Tutorial on "Introduction to linux commands"\
 - Tutorial on "Getting started with Docker"\
 - Teaching assistant for CN-3530 (Computer Networks)
