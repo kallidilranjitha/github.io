@@ -30,9 +30,9 @@ IEEE ICACCS, Coimbatore, India, January 2017
 
 - A Proactive Flow Admission and Re-Routing Scheme for Load Balancing and Mitigation of Congestion Propagation in SDN Data Plane\
 Sminesh C N, Kanaga E Grace Mary, **Ranjitha K**\
-Int'l Journal of Computer Networks & Communications (IJCNC), Vol. 10, No. 6, Nov 2018. 
+Int'l Journal of Computer Networks & Communications (IJCNC), Vol. 10, No. 6, Nov 2018 
 
 **Teaching Work**
-- Tutorial on "Introduction to linux commands"\
-- Tutorial on "Getting started with Docker"\
+- Tutorial on "Introduction to linux commands"
+- Tutorial on "Getting started with Docker"
 - Teaching assistant for CN-3530 (Computer Networks)
