@@ -11,6 +11,9 @@ redirect_from:
 I am currently a research scholar at Computer Science Department at IIT-Hyderabad. Prior to joining IIT-Hyderabad, I did my M-Tech from Governement Engineering College Thrissur, Kerala. My research interests are in the are of networking, network security, software defined networks, programmable networks and cloud performance monitoring. 
 
 **Publication**
+- Accelerating PUF-based Authentication Protocols Using Programmable Switch\
+Divya Pathak, **Ranjitha K**, Krishna Sai, Praveen Tammana, Antony Franklin A, Tejasvi Alladi\
+[IEEE/IFIP NOMS](https://noms2023.ieee-noms.org/), Miami,FL, May 2023
 
 * A Case for Cross-Domain Observability to Debug Performance Issues in Microservices\
 **Ranjitha K**, Praveen Tammana, Pravein Govindan Kannan, and Priyanka Naik\
