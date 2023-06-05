@@ -13,7 +13,7 @@ I am currently a research scholar at Computer Science Department at IIT-Hyderaba
 **Publication**
 - Accelerating PUF-based Authentication Protocols Using Programmable Switch\
 Divya Pathak, **Ranjitha K**, Krishna Sai, Praveen Tammana, Antony Franklin A, Tejasvi Alladi\
-[IEEE/IFIP NOMS](https://noms2023.ieee-noms.org/), Miami,FL, May 2023
+[IEEE/IFIP NOMS](https://noms2023.ieee-noms.org/), Miami,FL, May 2023 [pdf](https://kallidilranjitha.github.io/publications/PUF_Auth)
 
 * A Case for Cross-Domain Observability to Debug Performance Issues in Microservices\
 **Ranjitha K**, Praveen Tammana, Pravein Govindan Kannan, and Priyanka Naik\
